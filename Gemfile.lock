@@ -161,3 +161,4 @@ DEPENDENCIES
   rake
   rspec-rails (>= 3.0.0.beta)
   sqlite3
+  thor
