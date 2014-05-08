@@ -16,7 +16,6 @@ module ActsAsAddressable
       end
 
       it "returns the primary location" do
-        # binding.pry
         expect(user.home_address.street_1).to eq "1234 S. Main"
       end
     end
